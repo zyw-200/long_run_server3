@@ -1,0 +1,6 @@
+GET /session_login#php HTTP/1.1
+Accept-Encodate,sdchzywzywzywzywzywzywzywzywzyw
+Host: 192.168C0.50
+Conent_Length: 20session_login=zywzywzy
+
+t

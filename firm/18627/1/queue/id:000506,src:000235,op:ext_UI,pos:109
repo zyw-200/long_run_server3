@@ -1,0 +1,7 @@
+POST / HTTP/1.1
+AUTHORIZATIONAccept-Encoding: gzip,deflate,sdchzywzywzywzywzywzywzywzywzyw
+Host: 168.0.50
+Fail to set current username: ret = %dContent_Length: 20
+Cookie: uidzywzy
+
+tes

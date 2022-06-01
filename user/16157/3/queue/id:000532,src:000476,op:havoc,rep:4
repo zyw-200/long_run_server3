@@ -1,0 +1,31 @@
+GET /currentsetting.htm HTTP/1.1
+Host: 0.1
+AAccept-Language: en-US,en;q=0.5
+-Insecure-Requests: 1
+CAccept-Encoding: gzip, deflate
+Coccept: tex*;q-0.8
+Accept-Language: en-US,en;q=0.5
+-Insecure-Requests: 1
+CAccept-Encoding: gzip, deflate
+Connection: keesetting.htm HTTP/1.1
+Host: 0.1
+AAccept-Language: en-US,en;q=0.5
+-Insecure-Requests: 1
+CAccept-Encoding: gzip, deflate
+Coccept: tex*;q-0.8
+Accept-Language: en-US,en;q=0.5
+-Insecure-Requests: 1
+CAccept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgradsts: 1
+Cookie: uid=CFYCmN
+Accept-Language: en-US,en;q=0.5
+-Insecure-Requests: 1
+CAccept-Encoding: gzipp-alive
+Upgradsts: 1
+Cookie: uid=CFYCmN
+Accept-Language: en-US,en;q=0.5
+-Insecure-Requests: 1
+CAccept-Encoding: gzip, deflate(
+ConnectixEa
+

@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+e-Requests: 1
+ÿHost: 192L168.0:1
+Accept: t8
+Accept-http://e: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connen: keep-alive
+U0graction: keep-alive
+Upgrade-Insecure-Requests: 1
+ÿokie: uid=CFYCmNixEa
+

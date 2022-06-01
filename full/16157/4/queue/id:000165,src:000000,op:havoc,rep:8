@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: textHhtml,application/xhtml+xml,application/xml;q=HTTP/0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Enco------------------------------ding: gzip, deflate
+Con
+Host: 192.168.0.1
+Accepade-Insecure-Requests: 1
+Cookie: uid€ÿFYCmNixEa-
+

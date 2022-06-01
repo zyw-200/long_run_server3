@@ -1,0 +1,10 @@
+GET / HTTP/1.1herror
+Host: 192.168.0.1
+Accept: text/html,application/xhtml+xml,application/xl;q=0.9,image/webp,*/*;q=0.8
+: en-US,en;q=0.5
+Accept-Encoding: gzxwebp,*/*;q=0.8
+: en-USp, ion: keep-alive
+Upgrade-Insecure-Requetml+xml,applicatuid=CFYCmNixEa
+
+test=test
+

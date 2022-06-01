@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+:ostogi‹1
+Accept: t
+Accept-Language: en-USn**
+SOAPACTION::                             service:168.0quesGETipt_aliast=test
+

@@ -1,0 +1,8 @@
+GET //cgi-bin/index.asp92.168.0.1
+Accept: t8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

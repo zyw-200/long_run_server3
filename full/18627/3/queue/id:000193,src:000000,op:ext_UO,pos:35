@@ -1,0 +1,8 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Invalid value for single_post_limit: %d=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

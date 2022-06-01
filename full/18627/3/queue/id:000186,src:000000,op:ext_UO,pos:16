@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+<HTML><HEAD><TITLE>505 HTTP Version Not Supported</TITLE></HEAD>Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

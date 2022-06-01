@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: t8
+: ;q=0. t8
+: ;q=0.5
+Accept5
+AccConnection: Keep-Alive defëate
+Connection: e
+Upgrade-Insecure-Requests: 1
+Cookif: &quot;YCmNixEa
+ç

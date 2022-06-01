@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.16X.0.1NONE
+Accept: t8
+Accdpt-Language: en-US,e|;q=0.5
+Accept-Encoding: gzip, deflate
+Connecgion: ktep-alive
+Upgrade-Insecure-Requeets: 1
+Cookie: uid=CFYCmNixEa
+Encoding: gzip, deflat

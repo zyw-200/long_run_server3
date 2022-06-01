@@ -1,0 +1,6 @@
+GET "http://www.w3.org/2001/XMLSchema-instance"Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

@@ -1,0 +1,6 @@
+POST / HTTP/1.1
+AcceptThe server encountered an internal error and could not complete your request.Content_Length: 20
+Cookie: uid=zywzywzy
+
+test=test
+

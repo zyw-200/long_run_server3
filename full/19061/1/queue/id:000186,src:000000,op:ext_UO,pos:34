@@ -1,0 +1,7 @@
+GET /session_login.php HTTP/1.1
+A 1 s ap:"%s" 1 s monitor_now:"%s" 1 s monitor_prev:"%s" 
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+t

@@ -1,0 +1,5 @@
+GET /sessi[n_login.php HTTP/1.1
+Accept-Encoding: gzeflat
+Conent_Length: 20
+Cookie: uid=zywzywzy
+

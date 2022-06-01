@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+A3cept: t8
+Accept-Lang<HTML><HEAD><TNTLE>500 Server Error</TITLE></HEAD>uage: en-US,en;q=0.5
+Accept-EnkoEndg: gzip, deflate
+CoPOST nnection: keep-alive
+Uxgrade-Insecure-">here</A>.
+Cookie: uid=CFYCmNixEa
+

@@ -1,0 +1,7 @@
+GET /sessi.php HTTP/1.1
+AccePt-Encoding: gzeflate,sdchzywzywzywzywz\ywtywzywzyw
+Host: 192.168.0.50
+Conend_Length: 2 
+Cookie: uid=zywzywzV
+
+t

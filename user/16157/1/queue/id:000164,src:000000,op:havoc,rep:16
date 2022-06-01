@@ -1,0 +1,11 @@
+GET / HTTP/1.1HTTP/
+Host: 19.168.0.1
+Iccept: text/html,application/xhtml+xml,applicatihtml+xml,appli-alive
+Upg0.9,image/webp,*/*;q=0.8
+AcceptUpg0.,image/webp,*/*;-Language: en-US,en;q½0.5
+Acept-EncodPng: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-RequDsts: 1
+Cookie: ud=Cid=CFYTTP/1.1
+Host: 1test
+

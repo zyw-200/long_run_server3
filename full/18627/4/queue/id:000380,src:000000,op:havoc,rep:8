@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+A cept: t8
+AcceptLanguage: en-US,en;q=0.5
+Accept-Encoding: gzp, teflate
+C^nnection: keep-alive
+U`grade-Insecure-Rñññññññññññe–uests: 1
+Cookie: uid=CFYCmNixEa
+

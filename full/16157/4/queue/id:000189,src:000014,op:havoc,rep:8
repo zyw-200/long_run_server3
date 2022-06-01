@@ -1,0 +1,10 @@
+GET / HTTP/1.1Acsend_redirect_temp
+Aflate
+Connection:‰en-USccept: text/html,application/xhtmÿ+xml,application/xml;q=0.9,image/webp,*/*;q=.8
+Accept-Language:gzip, deflate
+Connection:‰enUS,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: t8
+Accept-Language: x: 1
+Cookie: uid=C/tmp/parse_tempFYCmNixEen-US,en;q=0.5
+Accept-Encodingÿÿÿip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requestx: 1
+Cookie: uid=CFYCmNixEa
+

@@ -1,0 +1,8 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: t8
+Accept-Lt-Encoding: gzip, deflte
+Connection: keep-alive
+Upgrade-2nÿÿcure-Requests: 1
+Cookie: uid=C
+UpgradeEInse

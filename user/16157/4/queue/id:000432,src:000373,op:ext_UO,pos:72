@@ -1,0 +1,7 @@
+GET / HTTP/1.1ÿ
+SOAPACTION::	1
+eflate
+SOAPACTION::	192.168.wep_1.1
+Content-Type: text/html/xhtml+xml,apHTTP/1.1ÿHostUS,en;q=0.5
+eflatest=test
+

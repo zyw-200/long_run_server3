@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: t8
+Ac@ept-Language: en-US,en;q=0.5
+ARequests: 1
+Cookie: uid=CFYCccept-Encoding: gzip, deTlate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid 1
+=CFYCmNixEa
+

@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+Ho: 0.1
+SOA
+Ho: 0.1
+SOAPACTION::::text/Ea
+

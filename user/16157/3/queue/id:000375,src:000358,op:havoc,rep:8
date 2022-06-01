@@ -1,0 +1,5 @@
+GET / HTTP/1.1
+:ostn**
+SOAPACTION:::serv8.;|odin**
+SOAPACTION:::serv8.0quesGETiwvtest
+

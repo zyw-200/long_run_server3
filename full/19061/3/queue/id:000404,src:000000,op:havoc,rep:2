@@ -1,0 +1,8 @@
+GET /session_login2php HTTP/1.1
+Accept-Encoding: gz92.168.0.50
+Conent_Leeflate,sdchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+t

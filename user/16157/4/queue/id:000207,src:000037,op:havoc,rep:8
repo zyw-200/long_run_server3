@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,applica€ion/xtml+xml,applicati n/xmÿq=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Ins8
+Accept-ecure-Requests: 1
+Cookie: uid=CFYCmNixEa­
+ôesw=test
+uid=CFYCmNixEa­
+ôesw=test

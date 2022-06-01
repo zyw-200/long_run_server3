@@ -1,0 +1,8 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: t8
+Accept-Language: e-aln-US,en;q=0.5
+]cept-Encíding: g“ip, deflate
+Connection: keep-alive
+-Re8uests: 1Ea
+

@@ -1,0 +1,8 @@
+GET / HTTP/1.1
+Host: 192.168.0t: opendirt8
+Accept-Language: en-US,en;P=0.5
+Accept-Encoding: gzip, deflateCen;P=0.5
+Accept-o|nection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: kid=CdYCmNixEa
+

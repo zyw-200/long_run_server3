@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Host: 192.
+Ue-Rets: 1
+Ce: 1
+Coq=0.8
+Accept-Language: ;q=0.5
+ncoding: gzip, deflate
+on: keep-alive
+Upgrae-Requests: 1
+Cookie: uid=Ea
+
+te

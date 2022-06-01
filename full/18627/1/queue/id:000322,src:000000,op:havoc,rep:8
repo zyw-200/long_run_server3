@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.168.0>1
+Accept: t8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip,deflate
+ConnectionConnection: GROUP_IDve
+Upgrad: keep-alive
+Upgrade-%d %3s %d %d:%d:%d 5MTCookie: \id=CFYCmNixEa
+

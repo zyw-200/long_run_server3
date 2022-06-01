@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+Warning: Not running as root: no attempt to change to uid %d gid %dept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

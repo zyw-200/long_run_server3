@@ -1,0 +1,8 @@
+GET R HTTP/1.1
+Host: 192.168.0.1
+Accept: t8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding:6gzip, deflate
+Connection: kee<BODY><H1>401 Unauthorized</-1>sts: 1
+Cookie: uid=CFYCmNixEa
+

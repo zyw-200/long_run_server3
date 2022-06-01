@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Ho§t: 192.168.0.1
+equest: t8
+Accept-Language: en-US,en;q=0.5
+Accept-Encodihg: gzip, deflate
+Co<BODY><H1>505 HTTP Version Not Supported</H1>nnection: Beep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixööööögidööööööööööööööööEa
+

@@ -1,0 +1,9 @@
+GET /cgi-bin/print_http_headers192.168.0.1
+Accept: text/html,apq=0.webp,*/*;q=0.8
+n;q=0.5
+Accept-Encodingdeflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCma
+
+test=tes

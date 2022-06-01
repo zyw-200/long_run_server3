@@ -1,0 +1,11 @@
+GET ? HTTP/1.1
+Host: 198.0.1
+Accept: t8
+At-Lage: ;q=0.5
+Acceptt: t8
+At-Lage: ;q=0.5
+Ac-Eing: gzite
+Connection: keep-alive
+Upgrade-Insecure-Requests" 1
+Cookie: uid=CFYCmNixEa
+

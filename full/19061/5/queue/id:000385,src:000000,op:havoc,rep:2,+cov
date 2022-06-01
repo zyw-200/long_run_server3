@@ -1,0 +1,8 @@
+GET /sessionplogin.php HTTP/1.1
+Accept- 20
+Cookie: uid=zywzywzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+t

@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: t8
+Accept-LanguagThe server encountered an internal error and could not complete your request.grade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

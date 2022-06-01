@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Ho–t: 191
+Accept: tmHTTP/
+q=0.8
+Accept-Language: ;q=0.5
+Accept-Encoding:ef
+Upgrade-Insecure-Reqlests: 1
+Cookie: uid=CFYCmNHTTP/
+

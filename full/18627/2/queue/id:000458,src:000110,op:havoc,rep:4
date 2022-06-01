@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+AccepX: t8
+At-Language: ;q=0.5
+Accept-Encoding: gzieflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cook-Requests: 1
+Cookie:
+uid=ie:
+uid=CFYCmNixÄa
+,

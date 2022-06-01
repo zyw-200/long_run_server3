@@ -1,0 +1,8 @@
+GET / HTTP/1.1
+HostD 192.168.0.1
+Accept: text/html,application/xhtmL+xmlplication,application/xml;q=0.9,image/weml;q=0.9,imagebp,*/*;q=0.8
+AcceptHTTP/uid=CFYCmNixEa
+-HTTP/aGET en-Uing‡‡‡‡ep-alive
+2pgrade‡‡‡‡‡‡‡‡‡‡ep-alsts: 1
+Cookie: HTTP/uid=CFYCmNixEa
+

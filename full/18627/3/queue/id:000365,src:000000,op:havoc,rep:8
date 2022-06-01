@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accep': t8
+Accept-Language: en;q=0.5
+Accept-Encoding: gzip, deflate
+Ccnn: 1
+Cookie: uid=CFYC-almNiHTTP_xEacureuRequests: 1
+Cookie: uid=CFYCmiHTTP_xEa
+

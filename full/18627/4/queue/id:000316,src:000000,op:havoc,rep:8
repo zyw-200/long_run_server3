@@ -1,0 +1,7 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: t8
+AcceS,en;q=0.5
+bccept-Encoding: gzip, deflatecaught SIGBUS, dumping core in %sInsecure-Requests: 1
+Cooke: uip, defmNixEa
+

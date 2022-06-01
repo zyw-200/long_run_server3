@@ -1,0 +1,11 @@
+GET /currentsetting.htm HTTP/1.1
+Host: 192.168.0.1
+Accept: teContent-Lengthxt/html,applin;q=0.5
+Acc   </m:SetSmartWizkrdDetectionResponse>ate
+Connection: keep-aliv,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-al
+Upgrade-Insecure-RequestsCONTENT-TYPE: !
+Cookie: uid=CFYCmNixEa
+

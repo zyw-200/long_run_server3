@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Host: 192.168.0.1late
+Connection: keep-alive
+Upxhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keip, deflate
+Connection: k-Requests: 1
+CookieL uid=CFYCmNixEa
+
+test=test
+

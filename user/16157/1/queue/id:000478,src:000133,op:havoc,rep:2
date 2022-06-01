@@ -1,0 +1,16 @@
+GET /router-info.htm HTTP/1.1
+Host: 192
+Acter-info.htm HTTP/1.1
+Host: 192.168.0.1
+Accept: text/himage/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: : text/html,epplicatio9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+t

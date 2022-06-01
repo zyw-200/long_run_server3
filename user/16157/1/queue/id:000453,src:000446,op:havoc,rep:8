@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+SOAPACTION::			  1
+SOAPACTION+xxxxxxxxxxxxxxxxZxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxET / HTTP/1.1
+SOAPACTION::			xxxxxET / HTTP/1.1
+SOAPACTION::			:			 1
+SOAPACTION::			           text/html,application/xhtml+x  1
+SOAP  1
+SOAPACTION::			           text/html,application/jhtml+x  1
+SOAPACTION::			           text/htm‚,applicxxxxxxET / HTTP/1.1
+SOAPACTION::			xxxxxET / HTTP/1.1
+SOAPACTION::		ation/xhtml+xxxxxxxxxxxxxxxNixEa
+

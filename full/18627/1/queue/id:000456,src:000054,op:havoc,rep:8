@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Ac@ept:t8şAccept-Language: ;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1ET/ HTTP/1.ÿÿÿost: 192
+Cookie: id=CFYCmNixEa
+ost: 192
+Cookie: uid=CFYCm

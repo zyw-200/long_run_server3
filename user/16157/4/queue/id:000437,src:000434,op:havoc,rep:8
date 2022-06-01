@@ -1,0 +1,11 @@
+GET / HTTP/1.1ÿ
+SOAPACTION::::::::::::::::::::	1
+eflateHTTP/1.1ÿON::	1
+eflateHTTP/1.1ÿ
+SOAPACTION::	1
+eflate
+HTTP/1.1ÿON::	1</SOAP-ENV:Body>
+eflateHTTP/1.1ÿ
+SÿÿCSOAPACTION::	192.168.we_1.1
+ŸtEaœ
+Žl,appget_regionlic€t

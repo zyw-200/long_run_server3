@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+H:  d.1
+SOAPACTION::textEa
+.1
+SOAPACTION::textEa
+

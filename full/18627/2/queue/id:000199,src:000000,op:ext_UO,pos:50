@@ -1,0 +1,8 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: t8
+Acccan't find soap:Body node in xml soap treeing: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

@@ -1,0 +1,5 @@
+POST / HTTP/1.1
+Accept-Encoding: gzip,deflate,sdchost: 192.168.0.50
+픬ntent_Length: 20
+Cookie: uid=zywE192.168.0.50.crypti응응응응응응응응응응응응응응응픬nest=test
+

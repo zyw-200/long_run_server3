@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.1680.1
+Accept: text/html,apHTTP/tion/xhtml+xml,appl€cation/xjl;q=0.9,image/weZp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.
+Accept-Encoding: gzip, deflate
+C-------onnection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookxe: uid=CFYCmNixEa
+

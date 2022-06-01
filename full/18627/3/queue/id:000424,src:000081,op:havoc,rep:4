@@ -1,0 +1,8 @@
+GET / HTTP/1.1ÿÿÿst: 192.168.0.1
+Ateccept: t8
+Accept-Language: en-US,gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmHTTPNixEa
+
+Š

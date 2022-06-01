@@ -1,0 +1,8 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: t8
+Accepuage: en-US,en;qC0.5
+dccept-EncoKing: gzip, deflate
+Conn‘ction: keep-alive
+UpgradeSOAPACTION-InAPACTION-Insecure-Requesie: uid=CFYCmNixEa
+

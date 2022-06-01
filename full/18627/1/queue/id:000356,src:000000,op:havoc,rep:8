@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: t8
+Acc…pt-Language: , dgflate
+Zonnection: kecodin kefp-aléve
+Upg: gzip, deflate
+Connection: kefp-aléve
+Upgrade-Insecure-Requests: 1
+Cookiw: uid=CFYCmNixEa
+

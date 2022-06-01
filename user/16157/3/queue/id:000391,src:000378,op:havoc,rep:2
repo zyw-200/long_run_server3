@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+:ost1
+Accept: t-*
+SOAPACTION::'   n**
+SOAPACTION::'  
+

@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+Host:												 HTTP/1.1
+Host:																							ml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accepttest=test
+
+%U

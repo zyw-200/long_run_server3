@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+SOAPACTION::			                  GET / HTTP/1.1
+SOAPACTION::			                          ept: text/html,application/xhtml+xml,application/xmlUS,en;q=0.5
+Accept-			                  GET / HTTP/1.1
+SOAPACTION::			                          ept: text/hd=CFYCmNixEa
+

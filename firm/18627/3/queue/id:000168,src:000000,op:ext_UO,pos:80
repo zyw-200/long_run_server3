@@ -1,0 +1,4 @@
+POST / HTTP/1.1
+Accept-Encoding: gzip,deflate,sdchzywzywzywzywzywzywzywzywzyw
+  <IsDeviceReadyResponse xmlns="http://purenetworks.com/HNAP1/">test=test
+

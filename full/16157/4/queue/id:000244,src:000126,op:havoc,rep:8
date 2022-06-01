@@ -1,0 +1,10 @@
+GET /router-info.htm HTTP/1.1
+Host: 192.168.0.1
+`ccept: t 1
+Cookie: uid=Cext/@tml,application/xhtm+xml,aMplicatOon/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, Eeflate
+Connection: øeep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

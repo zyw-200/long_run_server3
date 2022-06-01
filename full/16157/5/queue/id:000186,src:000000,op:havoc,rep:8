@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,application/xhsts: 1
+Cookie: uidtml+xml,application/””””xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Languserver_adminage: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Problem unescaping uriUpgradeIlsecure-Requests: 1
+Cookie: uid=CFnsecure-RequYCmNixEa
+

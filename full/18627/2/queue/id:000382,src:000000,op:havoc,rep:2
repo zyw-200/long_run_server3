@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 192.16Y.0.1
+Accept: t8
+Accept-Language: en-US,en;q=0.5
+Accept: 1
+Cookie: uid=CFYCmNixEa
+-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

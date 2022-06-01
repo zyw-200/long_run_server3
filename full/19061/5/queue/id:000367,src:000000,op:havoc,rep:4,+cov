@@ -1,0 +1,9 @@
+GET /session_login.php HTTP/1.1
+Accept- 192.168..50
+Conent_Length: 2Encodizeflate,sdchzywzywzywzywywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+HTTP/1.1
+Aczywzywzy
+
+t

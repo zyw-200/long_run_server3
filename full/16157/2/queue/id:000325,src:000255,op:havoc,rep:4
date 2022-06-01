@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+AccepHTTP_t: text/html,application/xhtml+xml,applicati.9,image/webp,*/*;X=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+SOAPACTION:"keep-alive
+Upgrad
+SOAPACTION:"keee-Insecure-Requests: 
+Cookie: uid=CFYCmNixEa
+

@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: tG
+Accept-Language:US,en.q=0.5
+Accept-Encodiÿÿ€onnection: keep-alive
+Upgrade-Insere-Req-Requÿÿ: 1
+Cookie: uid=CFYCuÿÿ: 1
+Cookie: uid=CFYCmNixEa
+

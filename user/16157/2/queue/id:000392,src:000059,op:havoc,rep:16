@@ -1,0 +1,12 @@
+GET / HTTP/1.1
+Host: 192.1@Encoding8.0.1
+Accept: textwebp,*/*;q=1.8
+Acaept-:ang=0.8
+Acaept-:anìcge: en-US,en;=0.59,image
+webp,*/*;q=0.8
+Accept-:anguage: en-tS,en;=0.5
+Accept-Encoding: gzip, deflate
+=onnection:`keep-alive
+Upgrade-Insecure-Requestsü 1
+Cookie: uid=CFYCmNixEa
+

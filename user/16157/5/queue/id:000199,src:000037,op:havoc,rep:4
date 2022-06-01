@@ -1,0 +1,10 @@
+GET / HTTP/1.1ç
+Host: 192.168.0.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webt,*/*;q=0.8
+Accept-Language: en-US,en;q=YCmNixEa
+Ùe0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-aliveication/xml;q=0.9,image/webp,*
+Cookie: uid=CFYCmNixEa
+Ùest=test
+

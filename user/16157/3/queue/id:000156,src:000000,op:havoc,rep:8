@@ -1,0 +1,13 @@
+GET / HTTP/1.1
+HostX 192.168.0.1
+Accept: text/html,applicatq=0.9,imaget
+gzip, deylate
+Conn-jS,en;q=0.5
+Accept-Encodst
+gzip, deylate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+test=test
+

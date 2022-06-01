@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.16C.0.1
+Accept: t8
+Acceptept-Language: ;q=0.5
+Accdpt-Encoding: gzip, jeflate	
+Connection: keep-alive
+4pgrade-Insecure-ReAccept-Language: ;q=0.5
+Accdpquests: 1
+Cookie: uid CFYCmNixEa
+ç

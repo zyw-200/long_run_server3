@@ -1,0 +1,12 @@
+GET /router-info.htm HTTP/1.1
+Host: 192.168.0.1
+Accepon: keep-alive
+Upgrade-Inst: text/html,appcication/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+connection: keep-alive
+Upgrade-Insecure-Requests: 1
+live
+Upgrade-Inst: text/html,Cookie: uid=CFYCmNixEa
+
+t

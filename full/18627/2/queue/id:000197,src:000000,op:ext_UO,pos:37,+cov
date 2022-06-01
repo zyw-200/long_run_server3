@@ -1,0 +1,7 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Ac"http://www.w3.org/2001/XMLSchema-instance"Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

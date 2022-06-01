@@ -1,0 +1,8 @@
+GET /session_login.php HTTP/1.1
+
+Conent_LengtAccept-Encoding: gzeflate,sdcyzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Conunt_Length: 20
+Cookie: uid=zyphpwzywzy
+
+t

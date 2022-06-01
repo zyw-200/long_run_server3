@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Ho: 0.1H
+Ho: 0.1
+SOAPACTION::teaT / HTTP/1.1
+Ho: 0.1
+SOAPACTION::text
+SOAPACTION::text/EaT / HTTP/1.1
+Ho: 0.1þ	SOAPACTION::text/
+

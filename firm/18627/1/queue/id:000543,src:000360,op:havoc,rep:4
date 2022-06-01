@@ -1,0 +1,9 @@
+POST / HTTP/1.1
+Acept-Encoding: gzip,defl@tzywzyw
+Host: 192.168.0.50
+Ccoding: gzip,defl@tzywzyw
+Hostontent_Lençth: 20
+Cookie: uid=zywzywzy
+: 20
+Cookie:
+test=test

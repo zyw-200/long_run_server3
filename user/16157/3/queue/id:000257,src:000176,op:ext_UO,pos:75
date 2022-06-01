@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/.5
+Accept-Encoding:                                    cure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

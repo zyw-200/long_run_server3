@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+SOAPACTION::			                          ept: texeflate
+Connection: keep-alive
+Upcation/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-.1
+SOAPACTION::			    US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-InsHTTP/ecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+Ž

@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+HoQt: 192.168.0.1
+Accepd: t8
+Content-Type: text/html; charset=ISO-8859-1Accept-Langoing: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie:t: t8
+Content-Type: textate
+Connection: kä

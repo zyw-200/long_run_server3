@@ -1,0 +1,7 @@
+GET *syession_login.php HTTP/1.1
+Accept-Encoding: gzeflate,sdchzywzydzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+CgTh: 20
+Cookie: uid=zywzywzy
+
+t

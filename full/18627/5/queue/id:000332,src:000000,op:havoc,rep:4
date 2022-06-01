@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: ate
+Conecure-Requests:-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Conecure-Requests: 1
+Cookgrade-Insecure-Requests:<H1>301 Moved</H1>The document has moved 1
+Cookie: uid=CFYCmNwxEa
+

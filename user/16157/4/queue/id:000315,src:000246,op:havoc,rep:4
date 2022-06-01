@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,applicati»»»»»»»»»»»»»e/webp,*/*;q=0.8=0.9,iflate
+SOAPACTION:"keep-alive
+guage: en-US,en;q=0.5
+Accept-Encoding: gz   <m:GetChannelInfoResponseip, deflate
+SOAPACTION:"keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

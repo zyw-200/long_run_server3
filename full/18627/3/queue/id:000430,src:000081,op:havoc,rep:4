@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accion: keep-aliveept: t8
+Accept-Language: en-US,en;q=0.5
+Accept-Encodin€€€€€€€€€€€€€€€€€€€€€€€€€€€€€g: gzKp, dqos.aspeflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+Š

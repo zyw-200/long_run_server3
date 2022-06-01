@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+Host:   <IsDeviceReadyResponse xmlns="http://purenetworks.com/HNAP1/">-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

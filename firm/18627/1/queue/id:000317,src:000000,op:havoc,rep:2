@@ -1,0 +1,9 @@
+POST / HTTP/1.1
+Accept-Encodinnt_Length: 20
+Cookie: uidg: gzip,deflate,sdchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Content_Length: 20
+Cookie: uid=zywzywœy
+
+test=test
+

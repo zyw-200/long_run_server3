@@ -1,0 +1,9 @@
+GET / HTTP/1.1;q
+Host: 192.168.0.1
+Accept: t8
+Accept-Language:Accept-Encoding: gzip, deflate
+Connection: keep-al€ve
+Up: gzip, deflate
+Conngrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+1
+Accept: text/q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: kewpatalk ath0 'configme pin=%s clean' 2>&1 > /var/tmp/WSC_apc_ath0_wpatalk_log &

@@ -1,0 +1,4 @@
+GET / HTTP/1.1
+boa: getcwd() failed - No read access in current directory. Aborting. gzi行行行行行行行行行行行: keep-alive
+U,image/webp,*C
+tes

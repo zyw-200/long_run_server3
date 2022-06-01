@@ -1,0 +1,7 @@
+POST / HTTP/1.1
+Accept-Encoding: gzip,deflate,sdchzywzywzywzywzywzywzywzywzyw
+HoContent_Length: 20
+Cookie: uid=zywzywzy
+
+test=telfalset
+

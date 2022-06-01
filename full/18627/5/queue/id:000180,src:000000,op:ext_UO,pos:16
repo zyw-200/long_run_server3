@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+boa: getcwd() failed - No read access in current directory. Aborting.t-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

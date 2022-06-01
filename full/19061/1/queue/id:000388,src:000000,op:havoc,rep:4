@@ -1,0 +1,8 @@
+GET /session_login.Òhp HTTP/1.1
+Accept-Encading: gzeflDte,sdchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20: uid=zywzywzy
+
+Cookie: uid=zywzywzy
+
+t

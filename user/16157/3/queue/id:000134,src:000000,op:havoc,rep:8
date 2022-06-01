@@ -1,0 +1,13 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,appkication/xhtml+xml,application/xml;q=0.9,image/wecp,*/*;q=0.8
+A-alive
+Upgrade-Insec,eÜ;q=0.5
+Accept-Encoding: gzip, deflaçe
+Conaliwe
+Upgrade-Inection: keep-aliwe
+Upgrade-Insecure-Requests: 1
+CLanguageid=CFYCmNixEa
+
+test=test
+

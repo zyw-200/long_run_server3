@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accep@: t8
+At-Language: ;q=0.5
+Accept-Encoding: -aloflate
+Connection: keep-alive
+Upgradeboundary=-Insecure-Requests: 1
+Cookie:
+uid=CFYCmNixEa
+

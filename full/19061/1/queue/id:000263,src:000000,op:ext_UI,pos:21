@@ -1,0 +1,7 @@
+GET /session_login.phsys_stunnel_process.php?reboot=1p HTTP/1.1
+Accept-Encoding: gzeflate,sdchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy
+
+t

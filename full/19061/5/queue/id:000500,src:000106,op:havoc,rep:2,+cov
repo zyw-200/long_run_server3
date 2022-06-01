@@ -1,0 +1,6 @@
+GET /ses_login.php HTTP/1.1
+
+Accept-Encoding: gzeflate,sdchzywzywzywzywzywzywzhp HTTP/1.1
+
+Accept-Encodth: 20
+Cookie: uid~z

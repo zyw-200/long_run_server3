@@ -1,0 +1,4 @@
+GETcat /proc/sys/dev/ath/wps_enable > /var/wps_tmplive
+s: 1
+Cot
+

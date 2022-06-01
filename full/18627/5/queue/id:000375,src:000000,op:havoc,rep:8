@@ -1,0 +1,8 @@
+GET / HTTP/1.1
+Host:ServerRoot 192.168.0.1
+Acceuests: 1
+Cookie: ,en;q=0.5boa: server version %s
+Acceptg: gzip, deflate
+C/nnection: keep-aliveŠUpgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

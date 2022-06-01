@@ -1,0 +1,5 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding: gzeflate,sdchzywzywzywzywzywzywzywzywzyw
+Host: 1Cound not connect to unix socket: %s.e: uid=zywzywzy
+
+t

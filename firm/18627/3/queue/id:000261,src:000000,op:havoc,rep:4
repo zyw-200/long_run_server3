@@ -1,0 +1,7 @@
+POST / HTTP/1.1
+Accept-Encoding: gzip,late,sdchzywzywzywzywzyw‚ywzywzywzyw
+Host: 192.168.0.50
+Cotent_Length: 20
+Cookie: uiwzywzywzywzy
+test=test
+

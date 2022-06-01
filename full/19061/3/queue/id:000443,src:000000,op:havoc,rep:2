@@ -1,0 +1,9 @@
+GET /session_login.phz HTTP/1.1
+Accept-Encoding: gzeflate,sdchzywzywzywzywzywzywzywzywzyw
+Host: 192.168.0.50
+Conent uid=zywzywzy
+
+t_Length: 20
+Cookie: uid=zywzywzy
+
+t

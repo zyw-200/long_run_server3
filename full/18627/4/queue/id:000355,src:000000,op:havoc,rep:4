@@ -1,0 +1,9 @@
+GET / HTTP/1.1&Enable
+Host: 192.168.0.1
+Accept: t8
+AccWarning: Not running as root: no attempt to change to uid %d gid %dept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+-LanguUpgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

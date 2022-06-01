@@ -1,0 +1,14 @@
+GET / HTTP/1.1
+SOAPACTION::'                           @eHTTP/1.1
+SOAPACTION::'                           @ept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encod‡ng: gzip, deflate
+ConnectionD keep-alive
+Upgrade-I1
+SOAPACTION::'          e: uid=CFYCmNixEapt: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encod‡ng: gzip, deflate
+ConnectionD keep-alive
+Upgrade-I1
+SOAPACTION::'          e: uid=CFYCmNixEa
+

@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+@ostccept: t8
+Accept-Language: : 192.168.0.1
+Accept: t8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, {eflate
+Connection: keep-alive
+Upgrnsecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

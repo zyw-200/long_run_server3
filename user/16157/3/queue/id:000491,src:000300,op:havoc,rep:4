@@ -1,0 +1,24 @@
+GET / HTTP/1.1
+CONTENT-LENGTH:Host: 192.168.0.1
+Accept: text/html,appl,application/xml;q=0.9,image/webp,*/*;q=0.8plication/xml;q=0.9,image/webp,*/*Kq=0.8
+CONTENT-LENGTH:: en-US,en;q=0.5
+CONTENT-LENGTH:: gzip, deflate
+ConnectionGET / HTTP/1.1
+CONTENT-LENGTH:Host: 192.168.0.1
+Accept: text/html,appl,application/xml;q=0.9,image/webp,*/*;q=0.8plication/xml;q=0.9,image/webp,*/*;q=0.8
+CONTENT-LENGTH:: en-US,en;q=0.5
+CONTENT-LENGTH:: gzip, deflate
+Connection: k
+CONTENT-LENGTH:: en-US,en;q=0.5
+CONTENT-LENGTH:: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+
+: k
+CONTENT-LENGTH:: en-US,en;q=0.5
+CONTENT-LENGTH:: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

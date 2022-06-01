@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 19*/*;q=0.8
+: keep-alive
+n;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+ 
+Cookie: uid=CFYCmNiuid=CFYCmNixEaxEa
+

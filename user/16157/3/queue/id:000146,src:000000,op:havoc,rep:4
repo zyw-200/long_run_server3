@@ -1,0 +1,8 @@
+GET / HTTP/1.1
+Host: 191
+Accept: t8
+Accepge: en-U.5
+Accept-Enc------- ---------------onnection: keep-alive
+Upgruests: 1
+Cookie: uid=CFYCmNixEa
+

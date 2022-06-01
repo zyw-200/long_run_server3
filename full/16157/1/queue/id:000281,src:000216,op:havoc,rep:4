@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: text/html,applic?tion/xhtml+xml,application/xml;q=0.9,imeflate
+SOAPACTION:5
+Acce]t-Encoding: gzip, deflate
+SOAPACTION: keep-alive
+Upgrade-Insecure-Requests:  
+Cookie: uid=CFYCmNixEa
+

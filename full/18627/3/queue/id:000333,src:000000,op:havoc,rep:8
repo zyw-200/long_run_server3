@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+AcVept: t8
+Accept,Languageookie: ,0.1
+Accept: t8
+Accept-g: gzip, deflate
+Connection: ke……………ep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixBa@
+

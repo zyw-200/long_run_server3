@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: t8
+Accept-Lannnection: keep-alive
+Upgrade-guage: en-US,en;q=0.5
+Accept-Encod‹ng: gzip, deflate
+<p><p></ÉÉÉÉÉ</HTML>Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

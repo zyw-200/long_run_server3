@@ -1,0 +1,4 @@
+GET /session_login.php ÈTTP/1.1
+Accept-Encoding: 192.168.0.50
+Conent_Length: 20
+Cookie: uid=zywzywzy

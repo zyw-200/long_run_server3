@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host:	192.168.0.1
+Accept: t8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie:boa: getcwd() failed - No read access in current directory. Aborting. uid=CFYCmNixpt: t8
+Accept-LEa
+

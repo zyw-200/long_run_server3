@@ -1,0 +1,8 @@
+POST / HTTP/1.1
+Acoding: gzip,defjate,sdchzywzywzywzywwyszywzywzywzyw
+Host: 192.168.0.5;
+Content<Length: 20
+Cookie: uid=zywzywzy|: gzip,deflate,sdchzywzy
+
+test=test
+

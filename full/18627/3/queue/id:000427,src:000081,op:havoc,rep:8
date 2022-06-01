@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.18.0.1
+Accept: t8
+Accept-Language: en-US,en;-US,en;q=0.5
+Accoding: gzip, deflate
+Connection: keep-alive
+U…grade-I secure-Requests: 1%sGot SIGBUS in memcpy!
+Cookie: uid=CFYCmNixua€
+Š

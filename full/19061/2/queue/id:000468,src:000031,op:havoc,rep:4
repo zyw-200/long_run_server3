@@ -1,0 +1,9 @@
+GET /session_login.php HTTP/1.0
+Accept-Encoeing: gzeflate,sdchzynentLength: 20
+Cookie: uid=zzywzywzywzywzywzywzywzywzyw
+Host: 19
+Conent_Length: 20
+Cogth: 20
+Cookie: uid=zywzywzy
+
+t

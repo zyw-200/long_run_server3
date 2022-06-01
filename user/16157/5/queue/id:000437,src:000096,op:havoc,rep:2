@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+Host:                                                                                                                                       pt-Encoding: gzip, deflip,
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+

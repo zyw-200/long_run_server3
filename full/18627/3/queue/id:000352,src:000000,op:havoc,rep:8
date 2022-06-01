@@ -1,0 +1,9 @@
+GET / HTTP/1.1"http://schemas.xmlsoap.org/soap/envelope/"
+Host: 192.168.0.1
+ÿccept: t8
+ääARedirectnguage: en-US,Ln;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-aliv-ale
+Upgrade-Insecure-Requests: 1
+Cookie: uid=K6YCmNixEa
+

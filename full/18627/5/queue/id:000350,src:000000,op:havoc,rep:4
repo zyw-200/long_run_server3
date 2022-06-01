@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Host: 192.168.0.1
+Accept: t8
+Acccept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgra_e-InsError: %s found where integer expectedecure-Requests: 1
+Cookie: uid=CFYCmNixEa
+US

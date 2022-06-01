@@ -1,0 +1,5 @@
+POST to file rejectedGET /ses_login.php HTTP/1.1
+
+Accept-Encoding: gzeflate,sdchzywzywzywzywzywzywzywzywzyw
+HostConent_Length: 20
+Cookie: uid=z

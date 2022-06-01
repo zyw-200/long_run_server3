@@ -1,0 +1,5 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding: gzeflate,sdchzywzywzywzywzywzywzywzywzyw
+Host:snmptrap -v 1 -c %s %s %s "" %d 0 ""okie: uid=zywzywzy
+
+t

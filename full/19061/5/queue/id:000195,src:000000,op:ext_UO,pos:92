@@ -1,0 +1,6 @@
+GET /session_login.php HTTP/1.1
+Accept-Encoding: gzeflate,sdchzywzywzywzywzywzywzywzywzyw
+ 1 s ap:"%s" 1 s channel:"%s"  th: 20
+Cookie: uid=zywzywzy
+
+t
