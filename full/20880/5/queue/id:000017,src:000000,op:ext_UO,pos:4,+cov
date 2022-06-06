@@ -1,0 +1,4 @@
+GET /var/sbin/fwupgrade boot &
+s: 1
+Cot
+

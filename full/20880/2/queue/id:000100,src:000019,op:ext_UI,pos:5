@@ -1,0 +1,1 @@
+GET /<last_ip_registered>%s</last_ip_registered>var/sbin/ip-up e %d

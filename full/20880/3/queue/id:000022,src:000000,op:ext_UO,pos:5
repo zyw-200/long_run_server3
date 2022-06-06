@@ -1,0 +1,3 @@
+GET /sys_upgrade: killall all apps 1
+Cot
+
